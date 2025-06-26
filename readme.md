@@ -54,6 +54,4 @@ The app uses a simple RNN trained on the IMDb movie review dataset. Words are to
 └── README.md             # Project documentation
 ```
 
-## 📄 License
 
-MIT License. Feel free to use and modify.
